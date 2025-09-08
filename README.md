@@ -194,5 +194,6 @@ module cpu_19bit (
     end
 
 endmodule
+[result (1).zip](https://github.com/user-attachments/files/22208388/result.1.zip)
 
 
